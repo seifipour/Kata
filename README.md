@@ -1,4 +1,0 @@
-Kata
-====
-
-Code katas
